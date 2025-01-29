@@ -3,7 +3,6 @@ package com.file_validation;
 import com.opencsv.CSVReader;
 import com.opencsv.CSVWriter;
 import com.opencsv.exceptions.CsvException;
-
 import java.io.*;
 import java.util.*;
 
